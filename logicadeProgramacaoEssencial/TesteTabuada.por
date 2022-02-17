@@ -1,8 +1,10 @@
 programa
 {
 	
-	funcao inicio() 
-	{ 
+	funcao inicio()
+ 
+	{
+ 
 		inteiro contador, limite, resultado, tabuada
 
 		contador = 0
@@ -15,6 +17,7 @@ programa
 			resultado = tabuada * contador
 			escreva(tabuada + " X " + contador + " = " + resultado + "\n")
 			contador++
+			
 			
 		}enquanto (contador <= limite)
 	
