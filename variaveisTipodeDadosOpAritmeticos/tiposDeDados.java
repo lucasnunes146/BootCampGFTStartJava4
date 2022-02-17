@@ -1,5 +1,3 @@
-package VariaveisTipodeDadosOpAritmeticos;
-
 public class TiposDeDados {
     public static void main(String[] args) {
         
