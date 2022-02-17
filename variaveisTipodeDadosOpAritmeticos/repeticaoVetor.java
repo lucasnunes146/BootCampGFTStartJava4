@@ -1,4 +1,4 @@
-package VariaveisTipodeDadosOpAritmeticos;
+
 
 public class RepeticaoVetor {
     public static void main(String[] args) {
