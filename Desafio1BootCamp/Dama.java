@@ -1,5 +1,3 @@
-package Desafio1BootCamp;
-
 import java.util.Scanner;
 
 public class Dama{
