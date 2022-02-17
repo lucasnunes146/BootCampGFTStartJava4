@@ -1,4 +1,4 @@
-package VariaveisTipodeDadosOpAritmeticos;
+
 
 public class FuncaoRecursiva2 {
     public static void main(String[] args) {
