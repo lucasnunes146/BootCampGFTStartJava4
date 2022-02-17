@@ -1,4 +1,4 @@
-package VariaveisTipodeDadosOpAritmeticos;
+
 
   // Ordem de prioridades dos operadores aritméticos:
   //pós-fixado: exp++ ou exp--
