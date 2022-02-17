@@ -1,4 +1,4 @@
-package VariaveisTipodeDadosOpAritmeticos;
+
 
 // casting = transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa.
 
