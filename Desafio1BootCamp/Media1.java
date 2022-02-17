@@ -10,13 +10,9 @@ public class Media1 {
 
         A = sc.nextDouble();
         B = sc.nextDouble();
-
-        //TODO: Complete os espaços em branco com as respectivas variáveis para o cálculo da média.
         media = (   A  * 3.5 +  B  * 7.5)/11; 
-
-        //TODO: Complete com a variável que representa o resultado da média.
         System.out.printf("MEDIA = %.5f\n",  media   );
-
+        sc.close();
     }
 }
 
