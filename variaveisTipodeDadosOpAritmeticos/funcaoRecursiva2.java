@@ -1,4 +1,6 @@
-public class funcaoRecursiva2 {
+package VariaveisTipodeDadosOpAritmeticos;
+
+public class FuncaoRecursiva2 {
     public static void main(String[] args) {
         int resultado = f(9, 3);
         System.out.println(resultado);

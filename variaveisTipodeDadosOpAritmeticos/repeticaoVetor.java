@@ -1,4 +1,6 @@
-public class repeticaoVetor {
+package VariaveisTipodeDadosOpAritmeticos;
+
+public class RepeticaoVetor {
     public static void main(String[] args) {
         int[] vetor = new int[10];
         

@@ -1,3 +1,5 @@
+package VariaveisTipodeDadosOpAritmeticos;
+
   // Ordem de prioridades dos operadores aritméticos:
   //pós-fixado: exp++ ou exp--
   //prefixado: ++exp ou --exp
@@ -17,7 +19,7 @@
   // l *= 3; ==> l = l * 3;
   // k %= 2; ==> k = k % 2;
 
-public class operadoresAritmeticos {
+public class OperadoresAritmeticos {
     public static void main(String[] args) {
         System.out.println("PrePos");
         prePos();

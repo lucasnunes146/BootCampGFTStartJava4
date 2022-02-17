@@ -1,3 +1,5 @@
+package VariaveisTipodeDadosOpAritmeticos;
+
 // casting = transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa.
 
 // upcast (implícito) = de menor para maior.
@@ -11,7 +13,7 @@
 //* int i; float f=10.5f; i=(int)f; downcast
 
 
-public class casting {
+public class Casting {
     public static void main(String[] args) {
         byte b1;
         short s1=1000;
@@ -58,8 +60,6 @@ public class casting {
         System.out.println("b1 = " + b1);
 
         int i10 = 3;
-        int g = 10 - 5 * 2 + --i10;
-
         System.out.println(i10);
     }
 }

@@ -1,4 +1,6 @@
-public class tiposDeDados {
+package VariaveisTipodeDadosOpAritmeticos;
+
+public class TiposDeDados {
     public static void main(String[] args) {
         
         byte b1 = 10;

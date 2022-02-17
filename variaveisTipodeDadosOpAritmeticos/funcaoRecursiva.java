@@ -1,4 +1,6 @@
-public class funcaoRecursiva{
+package VariaveisTipodeDadosOpAritmeticos;
+
+public class FuncaoRecursiva{
     public static void main(String[] args) {
         int x = f(5);
         System.out.println(x);
