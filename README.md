@@ -1,5 +1,5 @@
 <p id="container" float="left" margin=60px>
-  <img alt="Logo-dio" height=15% width=20% src="https://dio-events-bucket.s3.amazonaws.com/wp-content/uploads/2021/11/05170637/dio-fs-1.png"/>
+  <img alt="Logo-dio" height=15% width=20% src="https://play-lh.googleusercontent.com/P3xTS7gQrh0S2e_99KmHVGiVUcvepvj4eFFhqU_y6XFRegRoo1fTZ8r6t1MUsmfRxXNJ=s180-rw"/>
   <img alt="Logo-Boot" height=15% width=20% src="https://hermes.digitalinnovation.one/tracks/f8bc60f2-9ca1-4389-be8b-dd0a18827f8c.png"/>
 </p>
 
